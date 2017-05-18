@@ -1,5 +1,5 @@
-pp("Hello world");
-pp("Hello everybody");
-pp("Hello");
 pp("Hello my dear friend");
 pp("Glad to see you");
+pp("Hello worldæ");
+pp("Hello everybodyæ");
+pp("Helloæ");
