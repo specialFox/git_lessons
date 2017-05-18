@@ -1,3 +1,4 @@
 pp("Hello world");
 pp("Hello everybody");
 pp("Hello");
+pp("Hello my dear friend");
